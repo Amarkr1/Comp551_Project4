@@ -50,6 +50,6 @@ multi_task_mnfe.py - extending multi-task to a new dataset and then checking for
 
 
 ---------------------------------------------------------------------------------------------------------------------------
-method of execution - 
+Method of execution - 
 Type the following command in terminal
-`bash cl_cnn_scipe.sh`
+```bash cl_cnn_scipe.sh```
