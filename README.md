@@ -34,7 +34,8 @@ cl_cnn_scipe.sh - modify this file to decide which files are to be executed or s
 image.py - processes the image  
 img_process.py - processes the image  
 lsuv_init.py  
-mnist_reader.py - reader file for reading the data   
+mnist_reader.py - reader file for reading the data MNIST, notMNIST and fashionMNIST   
+mnist_reader.py - reader file for reading the data EMNIST-MNIST  
 multi_task_fn.py  
 multi_task_mf.py  
 multi_task_mnf.py  
