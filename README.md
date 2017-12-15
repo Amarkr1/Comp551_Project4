@@ -14,7 +14,6 @@ Original Paper:
 				keras - 2.0.3
 				scipy - 0.19.0
 				opencv - 3.3.0
-
 Our report:
 				python - 3.5
 				tensorflow - 1.4.0
