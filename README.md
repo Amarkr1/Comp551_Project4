@@ -3,9 +3,8 @@
 						author: YUNHUA ZHENG [yunhua.zheng@mail.mcgill.ca]
 								AMAR KUMAR[amar.kumar@mail.mcgill.ca]
 								AMAN GARG [aman.garg@mail.mcgill.ca]
-								 [deklan.chung@mail.mcgill.ca]
+							
 ######################################################################################################
-
 Dependencies:
 Original Paper:
 				python - 3.4
