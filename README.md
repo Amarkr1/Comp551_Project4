@@ -48,6 +48,8 @@ TSNE_CNN_MULTI.ipynb - For generating the tSNE plot of the Multi-task data
 single_task_cnn_modified.py - generating accuracy of EMNIST dataset  
 multi_task_mnfe.py - - predictions on M+N+F+E dataset
 
+---------------------------------------------------------------------------------------------------------------------------
+Description - the best way to run the files is to clone the github folder and then execute the bash file
 
 
 ---------------------------------------------------------------------------------------------------------------------------
