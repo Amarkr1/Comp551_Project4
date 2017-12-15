@@ -34,19 +34,19 @@ cl_cnn_scipe.sh - modify this file to decide which files are to be executed or s
 image.py - processes the image  
 img_process.py - processes the image  
 lsuv_init.py  
-mnist_reader.py - reader file for reading the data MNIST, notMNIST and fashionMNIST   
-mnist_reader.py - reader file for reading the data EMNIST-MNIST  
-multi_task_fn.py  
-multi_task_mf.py  
-multi_task_mnf.py  
-multi_task_mn.py  
-single_task_cnn.py  
+mnist_reader.py - reader file for reading the data MNIST (M), notMNIST(N) and fashionMNIST(F)  
+mnist_reader.py - reader file for reading the data EMNIST-MNIST(E)    
+multi_task_fn.py  - predictions on F+N dataset  
+multi_task_mf.py  - predictions on M+F dataset  
+multi_task_mnf.py  - predictions on M+N+F dataset  
+multi_task_mn.py  - predictions on M+N dataset  
+single_task_cnn.py  - predictions on single dataset
 TSNE_CNN.ipynb - For generating the tSNE plot of the single-task data  
   
 {Written by us}  
 TSNE_CNN_MULTI.ipynb - For generating the tSNE plot of the Multi-task data  
 single_task_cnn_modified.py - generating accuracy of EMNIST dataset  
-multi_task_mnfe.py - extending multi-task to a new dataset and then checking for the accuracy  
+multi_task_mnfe.py - - predictions on M+N+F+E dataset
 
 
 
