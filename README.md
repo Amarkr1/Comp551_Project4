@@ -1,23 +1,23 @@
 ######################################################################################################
-						PROJECT 2: COMP 551 - LANGUAGE CLASSIFICATION
-						author: YUNHUA ZHENG [yunhua.zheng@mail.mcgill.ca]
-								AMAR KUMAR[amar.kumar@mail.mcgill.ca]
-								AMAN GARG [aman.garg@mail.mcgill.ca]
+						PROJECT 2: COMP 551 - LANGUAGE CLASSIFICATION  
+						author: YUNHUA ZHENG [yunhua.zheng@mail.mcgill.ca]  
+								AMAR KUMAR[amar.kumar@mail.mcgill.ca]  
+								AMAN GARG [aman.garg@mail.mcgill.ca]  
 ######################################################################################################
 
-Dependencies:
-Original Paper:
-				python - 3.4
-				tensorflow - 1.0.1
-				keras - 2.0.3
-				scipy - 0.19.0
-				opencv - 3.3.0
-Our report:
-				python - 3.5
-				tensorflow - 1.4.0
-				keras - 2.0.3
-				scipy - 1.0.0
-				opencv - 3.3.0
+Dependencies:  
+Original Paper:  
+				python - 3.4  
+				tensorflow - 1.0.1  
+				keras - 2.0.3  
+				scipy - 0.19.0  
+				opencv - 3.3.0  
+Our report:  
+				python - 3.5  
+				tensorflow - 1.4.0  
+				keras - 2.0.3  
+				scipy - 1.0.0  
+				opencv - 3.3.0  
 
 ---------------------------------------------------------------------------------------------------------------------------				
 Folders -   
