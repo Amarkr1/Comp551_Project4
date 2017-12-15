@@ -42,7 +42,7 @@ multi_task_mnf.py  - predictions on M+N+F dataset
 multi_task_mn.py  - predictions on M+N dataset  
 single_task_cnn.py  - predictions on single dataset
 TSNE_CNN.ipynb - For generating the tSNE plot of the single-task data  
-  
+Original paper.pdf - The main paper which we are trying to reproduce  
 {Written by us}  
 TSNE_CNN_MULTI.ipynb - For generating the tSNE plot of the Multi-task data  
 single_task_cnn_modified.py - generating accuracy of EMNIST dataset  
