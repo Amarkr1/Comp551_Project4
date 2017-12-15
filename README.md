@@ -1,6 +1,6 @@
 ######################################################################################################  
                                                 PROJECT 2: COMP 551 - LANGUAGE CLASSIFICATION  
-						author: YUNHUA ZHENG [yunhua.zheng@mail.mcgill.ca]  
+						authors: YUNHUA ZHENG [yunhua.zheng@mail.mcgill.ca]  
 								AMAR KUMAR[amar.kumar@mail.mcgill.ca]  
 								AMAN GARG [aman.garg@mail.mcgill.ca]  
 ######################################################################################################  
