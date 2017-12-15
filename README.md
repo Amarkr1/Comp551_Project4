@@ -7,7 +7,7 @@
 
 Dependencies:  
 Original Paper:  
-				~python - 3.4  
+				python - 3.4  
 				tensorflow - 1.0.1  
 				keras - 2.0.3  
 				scipy - 0.19.0  
